@@ -18,4 +18,10 @@ class Foo
     {
         return 'Nginx PHP MySQL';
     }
+
+
+        public function getTasks()
+    {
+        return 'tasks';
+    }
 }
