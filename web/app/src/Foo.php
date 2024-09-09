@@ -4,7 +4,11 @@
  * I belong to a file
  */
 
+
+
 namespace App\Acme;
+
+require_once('cw.php');
 
 /**
  * I belong to a class
